@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ZigZag",
+          "submenu": [
+            {
+              "label": "New Game",
+              "command": "zigzag:toggle"
+            }
+            {
+              "label": "Draw Card",
+              "command": "zigzag:draw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
