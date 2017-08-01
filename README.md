@@ -1,4 +1,5 @@
 # ZigZag
+![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
 
 ZigZag is like Oblique Strategies. It gives you a card and an animation
 meant to help you out when you get stuck.
@@ -24,5 +25,3 @@ meant to help you out when you get stuck.
   * Draw a card from the deck
 * zigzag reset
   * Start a new zigzag game. Only shows up when you run out of zigzag.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
