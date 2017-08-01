@@ -1,0 +1,18 @@
+{
+  "name": "zigzag",
+  "main": "./lib/zigzag",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "zigzag:toggle"
+  },
+  "repository": "https://github.com/atom/zigzag",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

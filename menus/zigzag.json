@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle zigzag",
+        "command": "zigzag:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "zigzag",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "zigzag:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
