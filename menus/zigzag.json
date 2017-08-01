@@ -8,8 +8,8 @@
           "submenu": [
             {
               "label": "New Game",
-              "command": "zigzag:toggle"
-            }
+              "command": "zigzag:new"
+            },
             {
               "label": "Draw Card",
               "command": "zigzag:draw"
