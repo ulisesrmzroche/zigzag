@@ -1,18 +1,26 @@
 {
   "name": "zigzag",
   "main": "./lib/zigzag",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
-  ],
+  "version": "1.0.0",
+  "description": "Oblique Strategies for Softare Developers",
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": "zigzag:toggle"
+    "atom-workspace": [
+      "zigzag:new",
+      "zigzag:draw"
+    ]
   },
+  "author": "ulisesrmzroche",
   "repository": "https://github.com/atom/zigzag",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-babel": "^4.1.2",
+    "lodash": "^4.17.4"
   }
 }
